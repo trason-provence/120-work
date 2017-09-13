@@ -6,4 +6,6 @@ This is my first text document for one of Dr. Musick's Media Arts courses.
 I added a new line to this file in my text editor!!!!
 
 This is a line I added for change.
+
+I am adding a line so that I can continue with the steps on this assignment!!
  
