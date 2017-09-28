@@ -1,9 +1,9 @@
 // Declare the setup function
-fucntion setup() {
+function setup() {
 
-// create a canvas 600px wide and 400px high
-createCanvas( 600,400 );
+    // create a canvas 600px wide and 400px high
+    createCanvas( 600,400 );
 
-// color the background 'red'
-background( 'red' );
+    // color the background 'red'
+    background( 'red' );
 }
