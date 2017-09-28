@@ -7,3 +7,6 @@ function setup() {
     // color the background 'red'
     background( 'red' );
 }
+// Declare the draw function
+function draw() {
+  
