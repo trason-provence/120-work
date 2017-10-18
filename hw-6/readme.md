@@ -1,3 +1,4 @@
-Empty p5 sketch.
+Trason Provence, 51
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+## Homework Response
+This week in coding, I leanred and used basic functions when it comes to math, mapping, varibales, and data types. Using these techniques, I was able to create a moving picture of a blue frowning face created hundreds of layers of itself - showing every impression in the program. For this week, I definitely made sure to read all of the instructions carefully and correctly find the right punctuation to make the code pop-up in the browswer. I made the mistake of using a "." instead of "_" and it threw me for a loop. I checked what was wrong using web developer and it saved the day. Fortunately, I was able to find and fix all of my mistakes and did not need to use the class repo for questions. I have been checking on it every time I receive a notification, but I am always beat to answering, or I don't know the answer myself and don't want to give false answers or suggestions. I am noticing improvement in my own skills with coding, and I am excited about it!
