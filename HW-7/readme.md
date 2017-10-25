@@ -1,7 +1,4 @@
-Your Name, Your Section Number
-
-[Live Sketch Link](Your Live Link)
-
+Trason Provence, 51
 
 # HW 7 | Describe then Alter the Bouncing Ball
 
