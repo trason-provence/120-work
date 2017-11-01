@@ -1,3 +1,4 @@
-Empty p5 sketch.
+Trason Provence, 51
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+## Homework Experience
+This week in coding, we learned about for and while loops, which allows atom to create a series of code within a code to have it repeat itself, or 'loop'. I thought it was great to have no restrictions and be able to let creativity take the reins. The time was also greatly appreciated so that catching up could be done. I decided to go with the flashing dots example, but amp the speed and give it a teal background to make it my own creation. I also adjusted the spacing to make it look like there is a lot more going on. I was having troubles with brackets this lesson, meaning that my code wasn't reading because I was missing one at the end. I used the Web Developer and my own eyes to find and fix the mistake (thankfully). I did not need to use the class repo this time, and when I looked there was no one who had posted that Jon hadn't already answered. He's great! Lastly, the videos and examples have been helping a ton with grasping concepts and looking for references - thanks!  
