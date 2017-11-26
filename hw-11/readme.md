@@ -1,3 +1,4 @@
-Empty p5 sketch.
+Trason Provence, 51
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+## Homework Experience
+This week in coding, we learned anout Object Oriented Programming, or OOP for short. This is a type of programming that literally gives attributes to things, which I found to be pretty cool, and a little tricky. As always, I went through the entire lesson, reading adn watching everything that popped up (although I must admit I fast forwarded one a little, almost like a jump cut). I stuck with the original bubble design because I thought it was a fun way to learn about OOP and its functions. I wanted to make the bubbles larger so that they can take over the background quickly and repeat layers upon layers, while also making them green to really make them pop on the teal background. I did this by changing was r was multiplied by. I wasn't around much as far as internet goes because of Thanksgiving and what not, but I did make sure to check out a couple emails regarding issues on the class repo. I didn't offer feedback because others beat me to it, but I really tried to understand the issue and treatment.
